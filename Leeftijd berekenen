@@ -1,0 +1,5 @@
+gebooortejaar = int(input("In welk jaar ben jij geboren?"))
+
+leeftijd = 2022 - geboortejaar
+
+print(leeftijd)
