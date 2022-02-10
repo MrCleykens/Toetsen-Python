@@ -1,0 +1,7 @@
+leeftijd = int(input("Hoe oud ben jij? "))
+
+binnen5jaar = leeftijd + 5 
+
+tekst = "Binnen 5 jaar zal jij " + str(binnen5jaar) + " jaar oud zijn."
+
+print(tekst)
